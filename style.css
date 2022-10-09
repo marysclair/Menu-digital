@@ -12,7 +12,7 @@ body {
 }
 #cabecalho {
   min-height: 50%;
-  background-image: url(./imagens/header-fundo.png);
+  background-image: url(header-fundo.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
