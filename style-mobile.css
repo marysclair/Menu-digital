@@ -3,7 +3,7 @@
       margin: 10% 0;
     }
     #rodape{
-      min-height: 10vh;
+      height: 120px;
     }
     #titulo-rodape > h5 {
       font-size: 1.2rem;
@@ -17,9 +17,10 @@
     #titulo-rodape {
       margin-top: 7%; 
       width: 80%;
-      height: auto;
+      height: 100px;
     } 
     #rede-social{
+      height: 100px;
       margin-top: 7%;
     }
     ul{
@@ -78,7 +79,7 @@
     .prato-principal-imagem {
       height: 80px;
       width: 30%;
-      margin-right: 7%;
+      padding-right: 5%;
     }
     #cabecalho{
       min-height: 30vh;
